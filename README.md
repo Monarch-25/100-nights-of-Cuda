@@ -15,6 +15,6 @@ PMPP ch 1,2 Completed.
 
 [ ] Implement greyScaleToRGB kernel
 
-[ ] Impplement MatMul kernel
+[ ] Implement MatMul kernel
 
 PMPP ch 3
