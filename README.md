@@ -9,3 +9,10 @@
 [x] Implement Vector Addition in Cuda (vecAdd.cu).
 
 PMPP ch 1,2 Completed.
+
+### Day 2:
+[ ] Implement MultiDimensional MatAdd
+[ ] Implement greyScaleToRGB kernel
+[ ] Impplement MatMul kernel
+
+PMPP ch 3
