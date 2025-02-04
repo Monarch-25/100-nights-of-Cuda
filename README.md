@@ -16,4 +16,5 @@ PMPP ch 1,2 Completed.
 [x] Implement greyScaleToRGB kernel
 
 PMPP ch 3 : Completed till section 3.3 Image blur.
+
 Insights: Understood multidimensional indexing (offset) and contiguous memory layout in computers. 
