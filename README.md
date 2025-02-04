@@ -11,10 +11,9 @@
 PMPP ch 1,2 Completed.
 
 ### Day 2:
-[ ] Implement MultiDimensional MatAdd
+[x] Implement MultiDimensional MatAdd
 
-[ ] Implement greyScaleToRGB kernel
+[x] Implement greyScaleToRGB kernel
 
-[ ] Implement MatMul kernel
-
-PMPP ch 3
+PMPP ch 3 : Completed till section 3.3 Image blur.
+Insights: Understood multidimensional indexing (offset) and contiguous memory layout in computers. 
