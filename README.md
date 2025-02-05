@@ -11,6 +11,7 @@
 PMPP ch 1,2 Completed.
 
 ### Day 2:
+
 [x] Implement MultiDimensional MatAdd
 
 [x] Implement greyScaleToRGB kernel
@@ -18,3 +19,15 @@ PMPP ch 1,2 Completed.
 PMPP ch 3 : Completed till section 3.3 Image blur.
 
 Insights: Understood multidimensional indexing (offset) and contiguous memory layout in computers. 
+
+### Day 3:
+
+[x]Implement naive matmul
+
+[x]Implement Image blur kernel
+
+#### PMPP ch3: Complete
+
+Found an article regarding matmul (will be going through this over next couple of days):
+
+[Optimizing matmul for cuBlas like performance](https://siboehm.com/articles/22/CUDA-MMM)
